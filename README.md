@@ -7,7 +7,7 @@
 4. now write "node index.js" in your terminal and hit enter.
 HERE SERVER IS STARTED ON http://Localhost:5000
 
-    Technology used for authentication:
+    Technology used for authentication
  
 1.HTML, CSS, BOOTSTRAP for fronted dev. and render these by 'ejs' templating engine of javascript.
 2.NODE.JS server side language.
