@@ -7,10 +7,10 @@
 4. now write "node index.js" in your terminal and hit enter.
 HERE SERVER IS STARTED ON http://Localhost:5000
 
- Technology used for Authentication
-~ HTML, CSS, BOOTSTRAP for fronted dev. and render these by 'ejs' templating engine of javascript.
-~ NODE.JS server side language.
-~ Build RESTFUL API using EXPRESS.
-~ PASSPORT.JS for building oauth for google, twitter, facebook.
+ Technology used for authentication
+1.HTML, CSS, BOOTSTRAP for fronted dev. and render these by 'ejs' templating engine of javascript.
+2.NODE.JS server side language.
+3.Build RESTFUL API using EXPRESS.
+4.PASSPORT.JS for building oauth for google, twitter, facebook.
 
 
