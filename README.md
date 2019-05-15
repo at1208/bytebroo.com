@@ -6,15 +6,15 @@
 -> SERVER IS STARTED, listen to this "http://Localhost:5000"\
 
     Technology used
-# for fronted design \
--> HTML\
--> CSS\
--> BOOTSTRAP\
-# for backend \
--> NODE.JS\
--> EXPRESS.\
-# OAuth \
--> PASSPORT.JS\
-# Database\
--> MONGODB \
+# for fronted design 
+-> HTML
+-> CSS
+-> BOOTSTRAP
+# for backend 
+-> NODE.JS
+-> EXPRESS.
+# OAuth 
+-> PASSPORT.JS
+# Database
+-> MONGODB 
 
